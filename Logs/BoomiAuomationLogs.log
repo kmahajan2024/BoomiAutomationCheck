@@ -1,0 +1,10 @@
+[INFO ] 2021-05-05 13:49:55.653 [main] P3M_ProcessRun - Currently Orafin_to_AQueue_ActualCosts is Running
+[INFO ] 2021-05-05 13:51:11.266 [main] P3M_ProcessRun - Currently Ls-AQueue_to_Unifier_ActualCosts is Running
+[INFO ] 2021-05-05 13:58:23.776 [main] P3M_ProcessRun - Currently Orafin_to_AQueue_ActualCosts is Running
+[INFO ] 2021-05-05 13:59:27.150 [main] P3M_ProcessRun - Process - Orafin_to_AQueue_ActualCosts is completed
+[INFO ] 2021-05-05 14:00:13.868 [main] P3M_ProcessRun - Currently Ls-AQueue_to_Unifier_ActualCosts is Running
+[INFO ] 2021-05-05 14:01:28.936 [main] P3M_ProcessRun - Process - Ls-AQueue_to_Unifier_ActualCosts is completed
+[INFO ] 2021-05-05 14:18:40.188 [main] P3M_ProcessRun - Currently Orafin_to_AQueue_ActualCosts is Running
+[INFO ] 2021-05-05 14:19:43.555 [main] P3M_ProcessRun - Process - Orafin_to_AQueue_ActualCosts is completed
+[INFO ] 2021-05-05 14:20:33.053 [main] P3M_ProcessRun - Currently Ls-AQueue_to_Unifier_ActualCosts is Running
+[INFO ] 2021-05-05 14:21:48.314 [main] P3M_ProcessRun - Process - Ls-AQueue_to_Unifier_ActualCosts is completed

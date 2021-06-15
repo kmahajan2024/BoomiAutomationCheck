@@ -1,0 +1,50 @@
+[INFO ] 2021-04-22 09:21:08.799 [main] CommonFilters - Screenshot : Screen captured
+[INFO ] 2021-04-22 09:22:34.035 [main] CommonFilters - Ls-JMS_Q_MSD365_NewDomesticBillDtls
+[INFO ] 2021-04-22 09:22:45.467 [main] TestUtil - Screenshot attached: Test Passed
+[INFO ] 2021-04-22 10:05:13.863 [main] CommonFilters - Screenshot : Screen captured
+[INFO ] 2021-04-22 10:05:29.730 [main] RunAllInForLoop - Currently OraFin_to_CISP_CapitalCosts is Running
+[INFO ] 2021-04-22 10:05:29.730 [main] RunAllInForLoop - Currently OraFin_to_CISP_CapitalCosts is Running
+[INFO ] 2021-04-22 10:05:49.959 [main] RunAllInForLoop - Process - OraFin_to_CISP_CapitalCosts is completed
+[INFO ] 2021-04-22 10:05:49.959 [main] RunAllInForLoop - Process - OraFin_to_CISP_CapitalCosts is completed
+[INFO ] 2021-04-22 10:05:50.260 [main] RunAllInForLoop - Currently CISP_to_JMS_T_CapProject is Running
+[INFO ] 2021-04-22 10:05:50.260 [main] RunAllInForLoop - Currently CISP_to_JMS_T_CapProject is Running
+[INFO ] 2021-04-22 10:06:08.764 [main] RunAllInForLoop - Process - CISP_to_JMS_T_CapProject is completed
+[INFO ] 2021-04-22 10:06:08.764 [main] RunAllInForLoop - Process - CISP_to_JMS_T_CapProject is completed
+[INFO ] 2021-04-22 10:06:09.074 [main] RunAllInForLoop - Currently WUB_to_Critiqom_BillPrint_Passthru is Running
+[INFO ] 2021-04-22 10:06:09.074 [main] RunAllInForLoop - Currently WUB_to_Critiqom_BillPrint_Passthru is Running
+[INFO ] 2021-04-22 10:11:43.802 [main] CommonFilters - Screenshot : Screen captured
+[INFO ] 2021-04-22 10:11:59.543 [main] RunAllInForLoop - Currently OraFin_to_CISP_CapitalCosts is Running
+[INFO ] 2021-04-22 10:11:59.543 [main] RunAllInForLoop - Currently OraFin_to_CISP_CapitalCosts is Running
+[INFO ] 2021-04-22 10:12:18.946 [main] RunAllInForLoop - Process - OraFin_to_CISP_CapitalCosts is completed
+[INFO ] 2021-04-22 10:12:18.946 [main] RunAllInForLoop - Process - OraFin_to_CISP_CapitalCosts is completed
+[INFO ] 2021-04-22 10:12:19.218 [main] RunAllInForLoop - Currently CISP_to_JMS_T_CapProject is Running
+[INFO ] 2021-04-22 10:12:19.218 [main] RunAllInForLoop - Currently CISP_to_JMS_T_CapProject is Running
+[INFO ] 2021-04-22 10:12:38.595 [main] RunAllInForLoop - Process - CISP_to_JMS_T_CapProject is completed
+[INFO ] 2021-04-22 10:12:38.595 [main] RunAllInForLoop - Process - CISP_to_JMS_T_CapProject is completed
+[INFO ] 2021-04-22 10:12:38.813 [main] RunAllInForLoop - Currently WUB_to_Critiqom_BillPrint_Passthru is Running
+[INFO ] 2021-04-22 10:12:38.813 [main] RunAllInForLoop - Currently WUB_to_Critiqom_BillPrint_Passthru is Running
+[INFO ] 2021-04-22 10:28:49.675 [main] CommonFilters - Screenshot : Screen captured
+[INFO ] 2021-04-22 10:29:05.552 [main] RunAllInForLoop - Currently OraFin_to_CISP_CapitalCosts is Running
+[INFO ] 2021-04-22 10:29:05.552 [main] RunAllInForLoop - Currently OraFin_to_CISP_CapitalCosts is Running
+[INFO ] 2021-04-22 10:29:24.685 [main] RunAllInForLoop - Process - OraFin_to_CISP_CapitalCosts is completed
+[INFO ] 2021-04-22 10:29:24.685 [main] RunAllInForLoop - Process - OraFin_to_CISP_CapitalCosts is completed
+[INFO ] 2021-04-22 10:29:24.962 [main] RunAllInForLoop - Currently CISP_to_JMS_T_CapProject is Running
+[INFO ] 2021-04-22 10:29:24.962 [main] RunAllInForLoop - Currently CISP_to_JMS_T_CapProject is Running
+[INFO ] 2021-04-22 10:29:43.181 [main] RunAllInForLoop - Process - CISP_to_JMS_T_CapProject is completed
+[INFO ] 2021-04-22 10:29:43.181 [main] RunAllInForLoop - Process - CISP_to_JMS_T_CapProject is completed
+[INFO ] 2021-04-22 10:29:43.459 [main] RunAllInForLoop - Currently WUB_to_Critiqom_BillPrint_Passthru is Running
+[INFO ] 2021-04-22 10:29:43.459 [main] RunAllInForLoop - Currently WUB_to_Critiqom_BillPrint_Passthru is Running
+[INFO ] 2021-04-22 10:30:49.169 [main] RunAllInForLoop - Process - WUB_to_Critiqom_BillPrint_Passthru is completed
+[INFO ] 2021-04-22 10:30:49.169 [main] RunAllInForLoop - Process - WUB_to_Critiqom_BillPrint_Passthru is completed
+[INFO ] 2021-04-22 10:30:49.511 [main] RunAllInForLoop - Currently WUB_to_Critiqom_DunningLettersGen_Passthru is Running
+[INFO ] 2021-04-22 10:30:49.511 [main] RunAllInForLoop - Currently WUB_to_Critiqom_DunningLettersGen_Passthru is Running
+[INFO ] 2021-04-22 10:31:54.321 [main] RunAllInForLoop - Process - WUB_to_Critiqom_DunningLettersGen_Passthru is completed
+[INFO ] 2021-04-22 10:31:54.321 [main] RunAllInForLoop - Process - WUB_to_Critiqom_DunningLettersGen_Passthru is completed
+[INFO ] 2021-04-22 10:31:54.648 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_WOActivity is Running
+[INFO ] 2021-04-22 10:31:54.648 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_WOActivity is Running
+[INFO ] 2021-04-22 12:02:15.741 [main] CommonFilters - Screenshot : Screen captured
+[INFO ] 2021-04-22 12:03:42.210 [main] CommonFilters - Ls-JMS_Q_MSD365_NewDomesticBillDtls
+[INFO ] 2021-04-22 12:07:37.338 [main] CommonFilters - Screenshot : Screen captured
+[INFO ] 2021-04-22 12:09:04.251 [main] CommonFilters - Ls-JMS_Q_MSD365_NewDomesticBillDtls
+[INFO ] 2021-04-22 12:51:45.070 [main] CommonFilters - Screenshot : Screen captured
+[INFO ] 2021-04-22 12:53:11.666 [main] CommonFilters - Ls-JMS_Q_MSD365_NewDomesticBillDtls

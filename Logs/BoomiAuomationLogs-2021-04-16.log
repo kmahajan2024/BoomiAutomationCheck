@@ -1,0 +1,70 @@
+[INFO ] 2021-04-16 13:37:05.190 [main] CommonFilters - Screenshot : Screen captured
+[INFO ] 2021-04-16 13:37:20.493 [main] RunAllInForLoop - Currently OraFin_to_CISP_CapitalCosts is Running
+[INFO ] 2021-04-16 13:37:20.493 [main] RunAllInForLoop - Currently OraFin_to_CISP_CapitalCosts is Running
+[INFO ] 2021-04-16 13:37:29.774 [main] RunAllInForLoop - Process - OraFin_to_CISP_CapitalCosts is completed
+[INFO ] 2021-04-16 13:37:29.774 [main] RunAllInForLoop - Process - OraFin_to_CISP_CapitalCosts is completed
+[INFO ] 2021-04-16 13:37:30.135 [main] RunAllInForLoop - Currently CISP_to_JMS_T_CapProject is Running
+[INFO ] 2021-04-16 13:37:30.135 [main] RunAllInForLoop - Currently CISP_to_JMS_T_CapProject is Running
+[INFO ] 2021-04-16 13:37:38.246 [main] RunAllInForLoop - Process - CISP_to_JMS_T_CapProject is completed
+[INFO ] 2021-04-16 13:37:38.246 [main] RunAllInForLoop - Process - CISP_to_JMS_T_CapProject is completed
+[INFO ] 2021-04-16 13:37:38.479 [main] RunAllInForLoop - Currently WUB_to_Critiqom_BillPrint_Passthru is Running
+[INFO ] 2021-04-16 13:37:38.479 [main] RunAllInForLoop - Currently WUB_to_Critiqom_BillPrint_Passthru is Running
+[INFO ] 2021-04-16 13:38:34.749 [main] RunAllInForLoop - Process - WUB_to_Critiqom_BillPrint_Passthru is completed
+[INFO ] 2021-04-16 13:38:34.749 [main] RunAllInForLoop - Process - WUB_to_Critiqom_BillPrint_Passthru is completed
+[INFO ] 2021-04-16 13:38:34.971 [main] RunAllInForLoop - Currently WUB_to_Critiqom_DunningLettersGen_Passthru is Running
+[INFO ] 2021-04-16 13:38:34.971 [main] RunAllInForLoop - Currently WUB_to_Critiqom_DunningLettersGen_Passthru is Running
+[INFO ] 2021-04-16 13:39:31.159 [main] RunAllInForLoop - Process - WUB_to_Critiqom_DunningLettersGen_Passthru is completed
+[INFO ] 2021-04-16 13:39:31.159 [main] RunAllInForLoop - Process - WUB_to_Critiqom_DunningLettersGen_Passthru is completed
+[INFO ] 2021-04-16 13:39:31.409 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_WOActivity is Running
+[INFO ] 2021-04-16 13:39:31.409 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_WOActivity is Running
+[INFO ] 2021-04-16 13:40:26.986 [main] RunAllInForLoop - Process - Ellipse_to_JMS_Q_WOActivity is completed
+[INFO ] 2021-04-16 13:40:26.986 [main] RunAllInForLoop - Process - Ellipse_to_JMS_Q_WOActivity is completed
+[INFO ] 2021-04-16 13:40:27.231 [main] RunAllInForLoop - Currently JMS_Q_Activity_OPEX_XML_to_Orafin is Running
+[INFO ] 2021-04-16 13:40:27.231 [main] RunAllInForLoop - Currently JMS_Q_Activity_OPEX_XML_to_Orafin is Running
+[INFO ] 2021-04-16 13:41:17.400 [main] RunAllInForLoop - Process - JMS_Q_Activity_OPEX_XML_to_Orafin is completed
+[INFO ] 2021-04-16 13:41:17.400 [main] RunAllInForLoop - Process - JMS_Q_Activity_OPEX_XML_to_Orafin is completed
+[INFO ] 2021-04-16 13:41:17.616 [main] RunAllInForLoop - Currently JMS_Q_Activity_CAPEX_XML_to_Orafin is Running
+[INFO ] 2021-04-16 13:41:17.616 [main] RunAllInForLoop - Currently JMS_Q_Activity_CAPEX_XML_to_Orafin is Running
+[INFO ] 2021-04-16 13:42:07.294 [main] RunAllInForLoop - Process - JMS_Q_Activity_CAPEX_XML_to_Orafin is completed
+[INFO ] 2021-04-16 13:42:07.294 [main] RunAllInForLoop - Process - JMS_Q_Activity_CAPEX_XML_to_Orafin is completed
+[INFO ] 2021-04-16 13:42:07.488 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_BillIN_XML_Billing is Running
+[INFO ] 2021-04-16 13:42:07.488 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_BillIN_XML_Billing is Running
+[INFO ] 2021-04-16 13:43:12.125 [main] RunAllInForLoop - Process - Ellipse_to_JMS_Q_BillIN_XML_Billing is completed
+[INFO ] 2021-04-16 13:43:12.125 [main] RunAllInForLoop - Process - Ellipse_to_JMS_Q_BillIN_XML_Billing is completed
+[INFO ] 2021-04-16 13:43:12.331 [main] RunAllInForLoop - Currently Ellipse_to_Orafin_POReceipts_test is Running
+[INFO ] 2021-04-16 13:43:12.331 [main] RunAllInForLoop - Currently Ellipse_to_Orafin_POReceipts_test is Running
+[INFO ] 2021-04-16 13:47:30.808 [main] RunAllInForLoop - Process - Ellipse_to_Orafin_POReceipts_test is completed
+[INFO ] 2021-04-16 13:47:30.808 [main] RunAllInForLoop - Process - Ellipse_to_Orafin_POReceipts_test is completed
+[INFO ] 2021-04-16 13:47:30.990 [main] RunAllInForLoop - Currently Ellipse_To_Orafin_POCreate_test is Running
+[INFO ] 2021-04-16 13:47:30.990 [main] RunAllInForLoop - Currently Ellipse_To_Orafin_POCreate_test is Running
+[INFO ] 2021-04-16 13:51:48.425 [main] RunAllInForLoop - Process - Ellipse_To_Orafin_POCreate_test is completed
+[INFO ] 2021-04-16 13:51:48.425 [main] RunAllInForLoop - Process - Ellipse_To_Orafin_POCreate_test is completed
+[INFO ] 2021-04-16 13:51:48.632 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_WOCost_XML_WOStockIssue is Running
+[INFO ] 2021-04-16 13:51:48.632 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_WOCost_XML_WOStockIssue is Running
+[INFO ] 2021-04-16 13:52:43.905 [main] RunAllInForLoop - Process - Ellipse_to_JMS_Q_WOCost_XML_WOStockIssue is completed
+[INFO ] 2021-04-16 13:52:43.905 [main] RunAllInForLoop - Process - Ellipse_to_JMS_Q_WOCost_XML_WOStockIssue is completed
+[INFO ] 2021-04-16 13:52:44.108 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_WOCost_XML_WOLaborCost is Running
+[INFO ] 2021-04-16 13:52:44.108 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_WOCost_XML_WOLaborCost is Running
+[INFO ] 2021-04-16 14:43:49.264 [main] CommonFilters - Screenshot : Screen captured
+[INFO ] 2021-04-16 14:51:52.752 [main] CommonFilters - Screenshot : Screen captured
+[INFO ] 2021-04-16 15:07:18.458 [main] CommonFilters - Screenshot : Screen captured
+[INFO ] 2021-04-16 15:15:54.921 [main] TestUtil - Screenshot attached: Process selected with date successfully
+[INFO ] 2021-04-16 15:40:59.677 [main] CommonFilters - Screenshot : Screen captured
+[INFO ] 2021-04-16 15:41:15.012 [main] RunAllInForLoop - Currently OraFin_to_CISP_CapitalCosts is Running
+[INFO ] 2021-04-16 15:41:15.012 [main] RunAllInForLoop - Currently OraFin_to_CISP_CapitalCosts is Running
+[INFO ] 2021-04-16 15:41:25.602 [main] RunAllInForLoop - Process - OraFin_to_CISP_CapitalCosts is completed
+[INFO ] 2021-04-16 15:41:25.602 [main] RunAllInForLoop - Process - OraFin_to_CISP_CapitalCosts is completed
+[INFO ] 2021-04-16 15:41:26.154 [main] RunAllInForLoop - Currently CISP_to_JMS_T_CapProject is Running
+[INFO ] 2021-04-16 15:41:26.154 [main] RunAllInForLoop - Currently CISP_to_JMS_T_CapProject is Running
+[INFO ] 2021-04-16 15:41:35.384 [main] RunAllInForLoop - Process - CISP_to_JMS_T_CapProject is completed
+[INFO ] 2021-04-16 15:41:35.384 [main] RunAllInForLoop - Process - CISP_to_JMS_T_CapProject is completed
+[INFO ] 2021-04-16 15:41:35.655 [main] RunAllInForLoop - Currently WUB_to_Critiqom_BillPrint_Passthru is Running
+[INFO ] 2021-04-16 15:41:35.655 [main] RunAllInForLoop - Currently WUB_to_Critiqom_BillPrint_Passthru is Running
+[INFO ] 2021-04-16 15:42:34.931 [main] RunAllInForLoop - Process - WUB_to_Critiqom_BillPrint_Passthru is completed
+[INFO ] 2021-04-16 15:42:34.931 [main] RunAllInForLoop - Process - WUB_to_Critiqom_BillPrint_Passthru is completed
+[INFO ] 2021-04-16 15:42:35.308 [main] RunAllInForLoop - Currently WUB_to_Critiqom_DunningLettersGen_Passthru is Running
+[INFO ] 2021-04-16 15:42:35.308 [main] RunAllInForLoop - Currently WUB_to_Critiqom_DunningLettersGen_Passthru is Running
+[INFO ] 2021-04-16 15:43:34.157 [main] RunAllInForLoop - Process - WUB_to_Critiqom_DunningLettersGen_Passthru is completed
+[INFO ] 2021-04-16 15:43:34.157 [main] RunAllInForLoop - Process - WUB_to_Critiqom_DunningLettersGen_Passthru is completed
+[INFO ] 2021-04-16 15:43:34.496 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_WOActivity is Running
+[INFO ] 2021-04-16 15:43:34.496 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_WOActivity is Running

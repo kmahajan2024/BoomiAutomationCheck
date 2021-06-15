@@ -1,0 +1,162 @@
+[INFO ] 2021-04-15 13:25:16.451 [main] CommonFilters - Screenshot : Screen captured
+[INFO ] 2021-04-15 13:25:31.154 [main] RunAllInForLoop - Currently OraFin_to_CISP_CapitalCosts is Running
+[INFO ] 2021-04-15 13:25:31.154 [main] RunAllInForLoop - Currently OraFin_to_CISP_CapitalCosts is Running
+[INFO ] 2021-04-15 13:25:38.615 [main] RunAllInForLoop - Process - OraFin_to_CISP_CapitalCosts is completed
+[INFO ] 2021-04-15 13:25:38.615 [main] RunAllInForLoop - Process - OraFin_to_CISP_CapitalCosts is completed
+[INFO ] 2021-04-15 13:25:38.916 [main] RunAllInForLoop - Currently CISP_to_JMS_T_CapProject is Running
+[INFO ] 2021-04-15 13:25:38.916 [main] RunAllInForLoop - Currently CISP_to_JMS_T_CapProject is Running
+[INFO ] 2021-04-15 13:25:45.956 [main] RunAllInForLoop - Process - CISP_to_JMS_T_CapProject is completed
+[INFO ] 2021-04-15 13:25:45.956 [main] RunAllInForLoop - Process - CISP_to_JMS_T_CapProject is completed
+[INFO ] 2021-04-15 13:25:46.185 [main] RunAllInForLoop - Currently WUB_to_Critiqom_BillPrint_Passthru is Running
+[INFO ] 2021-04-15 13:25:46.185 [main] RunAllInForLoop - Currently WUB_to_Critiqom_BillPrint_Passthru is Running
+[INFO ] 2021-04-15 13:26:41.041 [main] RunAllInForLoop - Process - WUB_to_Critiqom_BillPrint_Passthru is completed
+[INFO ] 2021-04-15 13:26:41.041 [main] RunAllInForLoop - Process - WUB_to_Critiqom_BillPrint_Passthru is completed
+[INFO ] 2021-04-15 13:26:41.245 [main] RunAllInForLoop - Currently WUB_to_Critiqom_DunningLettersGen_Passthru is Running
+[INFO ] 2021-04-15 13:26:41.245 [main] RunAllInForLoop - Currently WUB_to_Critiqom_DunningLettersGen_Passthru is Running
+[INFO ] 2021-04-15 13:27:36.720 [main] RunAllInForLoop - Process - WUB_to_Critiqom_DunningLettersGen_Passthru is completed
+[INFO ] 2021-04-15 13:27:36.720 [main] RunAllInForLoop - Process - WUB_to_Critiqom_DunningLettersGen_Passthru is completed
+[INFO ] 2021-04-15 13:27:36.942 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_WOActivity is Running
+[INFO ] 2021-04-15 13:27:36.942 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_WOActivity is Running
+[INFO ] 2021-04-15 13:28:32.312 [main] RunAllInForLoop - Process - Ellipse_to_JMS_Q_WOActivity is completed
+[INFO ] 2021-04-15 13:28:32.312 [main] RunAllInForLoop - Process - Ellipse_to_JMS_Q_WOActivity is completed
+[INFO ] 2021-04-15 13:28:32.496 [main] RunAllInForLoop - Currently JMS_Q_Activity_OPEX_XML_to_Orafin is Running
+[INFO ] 2021-04-15 13:28:32.496 [main] RunAllInForLoop - Currently JMS_Q_Activity_OPEX_XML_to_Orafin is Running
+[INFO ] 2021-04-15 13:29:20.637 [main] RunAllInForLoop - Process - JMS_Q_Activity_OPEX_XML_to_Orafin is completed
+[INFO ] 2021-04-15 13:29:20.637 [main] RunAllInForLoop - Process - JMS_Q_Activity_OPEX_XML_to_Orafin is completed
+[INFO ] 2021-04-15 13:29:20.825 [main] RunAllInForLoop - Currently JMS_Q_Activity_CAPEX_XML_to_Orafin is Running
+[INFO ] 2021-04-15 13:29:20.825 [main] RunAllInForLoop - Currently JMS_Q_Activity_CAPEX_XML_to_Orafin is Running
+[INFO ] 2021-04-15 13:30:09.050 [main] RunAllInForLoop - Process - JMS_Q_Activity_CAPEX_XML_to_Orafin is completed
+[INFO ] 2021-04-15 13:30:09.050 [main] RunAllInForLoop - Process - JMS_Q_Activity_CAPEX_XML_to_Orafin is completed
+[INFO ] 2021-04-15 13:30:09.239 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_BillIN_XML_Billing is Running
+[INFO ] 2021-04-15 13:30:09.239 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_BillIN_XML_Billing is Running
+[INFO ] 2021-04-15 13:31:13.137 [main] RunAllInForLoop - Process - Ellipse_to_JMS_Q_BillIN_XML_Billing is completed
+[INFO ] 2021-04-15 13:31:13.137 [main] RunAllInForLoop - Process - Ellipse_to_JMS_Q_BillIN_XML_Billing is completed
+[INFO ] 2021-04-15 13:31:13.325 [main] RunAllInForLoop - Currently Ellipse_to_Orafin_POReceipts_test is Running
+[INFO ] 2021-04-15 13:31:13.325 [main] RunAllInForLoop - Currently Ellipse_to_Orafin_POReceipts_test is Running
+[INFO ] 2021-04-15 13:35:00.525 [main] RunAllInForLoop - Process - Ellipse_to_Orafin_POReceipts_test is completed
+[INFO ] 2021-04-15 13:35:00.525 [main] RunAllInForLoop - Process - Ellipse_to_Orafin_POReceipts_test is completed
+[INFO ] 2021-04-15 13:35:00.787 [main] RunAllInForLoop - Currently Ellipse_To_Orafin_POCreate_test is Running
+[INFO ] 2021-04-15 13:35:00.787 [main] RunAllInForLoop - Currently Ellipse_To_Orafin_POCreate_test is Running
+[INFO ] 2021-04-15 13:37:44.891 [main] RunAllInForLoop - Process - Ellipse_To_Orafin_POCreate_test is completed
+[INFO ] 2021-04-15 13:37:44.891 [main] RunAllInForLoop - Process - Ellipse_To_Orafin_POCreate_test is completed
+[INFO ] 2021-04-15 13:37:45.090 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_WOCost_XML_WOStockIssue is Running
+[INFO ] 2021-04-15 13:37:45.090 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_WOCost_XML_WOStockIssue is Running
+[INFO ] 2021-04-15 13:38:40.433 [main] RunAllInForLoop - Process - Ellipse_to_JMS_Q_WOCost_XML_WOStockIssue is completed
+[INFO ] 2021-04-15 13:38:40.433 [main] RunAllInForLoop - Process - Ellipse_to_JMS_Q_WOCost_XML_WOStockIssue is completed
+[INFO ] 2021-04-15 13:38:40.611 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_WOCost_XML_WOLaborCost is Running
+[INFO ] 2021-04-15 13:38:40.611 [main] RunAllInForLoop - Currently Ellipse_to_JMS_Q_WOCost_XML_WOLaborCost is Running
+[INFO ] 2021-04-15 13:49:18.569 [main] RunAllInForLoop - Process - Ellipse_to_JMS_Q_WOCost_XML_WOLaborCost is completed
+[INFO ] 2021-04-15 13:49:18.569 [main] RunAllInForLoop - Process - Ellipse_to_JMS_Q_WOCost_XML_WOLaborCost is completed
+[INFO ] 2021-04-15 13:49:18.750 [main] RunAllInForLoop - Currently JMS_Q_WOCost_XML_to_OraFin is Running
+[INFO ] 2021-04-15 13:49:18.750 [main] RunAllInForLoop - Currently JMS_Q_WOCost_XML_to_OraFin is Running
+[INFO ] 2021-04-15 13:51:18.175 [main] RunAllInForLoop - Process - JMS_Q_WOCost_XML_to_OraFin is completed
+[INFO ] 2021-04-15 13:51:18.175 [main] RunAllInForLoop - Process - JMS_Q_WOCost_XML_to_OraFin is completed
+[INFO ] 2021-04-15 13:51:18.350 [main] RunAllInForLoop - Currently Gemini_to_WUB_STBillDtls is Running
+[INFO ] 2021-04-15 13:51:18.350 [main] RunAllInForLoop - Currently Gemini_to_WUB_STBillDtls is Running
+[INFO ] 2021-04-15 13:52:28.819 [main] RunAllInForLoop - Process - Gemini_to_WUB_STBillDtls is completed
+[INFO ] 2021-04-15 13:52:28.819 [main] RunAllInForLoop - Process - Gemini_to_WUB_STBillDtls is completed
+[INFO ] 2021-04-15 13:52:29.011 [main] RunAllInForLoop - Currently Gemini_to_WUB_NewCustCreation is Running
+[INFO ] 2021-04-15 13:52:29.011 [main] RunAllInForLoop - Currently Gemini_to_WUB_NewCustCreation is Running
+[INFO ] 2021-04-15 13:54:11.642 [main] RunAllInForLoop - Process - Gemini_to_WUB_NewCustCreation is completed
+[INFO ] 2021-04-15 13:54:11.642 [main] RunAllInForLoop - Process - Gemini_to_WUB_NewCustCreation is completed
+[INFO ] 2021-04-15 13:54:11.847 [main] RunAllInForLoop - Currently WUB_to_JMS_Q_NewCustRef is Running
+[INFO ] 2021-04-15 13:54:11.847 [main] RunAllInForLoop - Currently WUB_to_JMS_Q_NewCustRef is Running
+[INFO ] 2021-04-15 13:55:07.553 [main] RunAllInForLoop - Process - WUB_to_JMS_Q_NewCustRef is completed
+[INFO ] 2021-04-15 13:55:07.553 [main] RunAllInForLoop - Process - WUB_to_JMS_Q_NewCustRef is completed
+[INFO ] 2021-04-15 13:55:07.746 [main] RunAllInForLoop - Currently JMS_Q_to_Gemini_NewCustRef is Running
+[INFO ] 2021-04-15 13:55:07.746 [main] RunAllInForLoop - Currently JMS_Q_to_Gemini_NewCustRef is Running
+[INFO ] 2021-04-15 13:56:07.792 [main] RunAllInForLoop - Process - JMS_Q_to_Gemini_NewCustRef is completed
+[INFO ] 2021-04-15 13:56:07.792 [main] RunAllInForLoop - Process - JMS_Q_to_Gemini_NewCustRef is completed
+[INFO ] 2021-04-15 13:56:07.979 [main] RunAllInForLoop - Currently WUB_to_JMS_Q_NewInvcBill is Running
+[INFO ] 2021-04-15 13:56:07.979 [main] RunAllInForLoop - Currently WUB_to_JMS_Q_NewInvcBill is Running
+[INFO ] 2021-04-15 13:57:04.238 [main] RunAllInForLoop - Process - WUB_to_JMS_Q_NewInvcBill is completed
+[INFO ] 2021-04-15 13:57:04.238 [main] RunAllInForLoop - Process - WUB_to_JMS_Q_NewInvcBill is completed
+[INFO ] 2021-04-15 13:57:04.429 [main] RunAllInForLoop - Currently JMS_Q_to_Gemini_NewInvcBill is Running
+[INFO ] 2021-04-15 13:57:04.429 [main] RunAllInForLoop - Currently JMS_Q_to_Gemini_NewInvcBill is Running
+[INFO ] 2021-04-15 13:57:59.812 [main] RunAllInForLoop - Process - JMS_Q_to_Gemini_NewInvcBill is completed
+[INFO ] 2021-04-15 13:57:59.812 [main] RunAllInForLoop - Process - JMS_Q_to_Gemini_NewInvcBill is completed
+[INFO ] 2021-04-15 13:58:00.059 [main] RunAllInForLoop - Currently WUB_to_JMS_Q_PymtDtls is Running
+[INFO ] 2021-04-15 13:58:00.059 [main] RunAllInForLoop - Currently WUB_to_JMS_Q_PymtDtls is Running
+[INFO ] 2021-04-15 13:58:55.627 [main] RunAllInForLoop - Process - WUB_to_JMS_Q_PymtDtls is completed
+[INFO ] 2021-04-15 13:58:55.627 [main] RunAllInForLoop - Process - WUB_to_JMS_Q_PymtDtls is completed
+[INFO ] 2021-04-15 13:58:55.805 [main] RunAllInForLoop - Currently JMS_Q_to_Gemini_PymtDtls is Running
+[INFO ] 2021-04-15 13:58:55.805 [main] RunAllInForLoop - Currently JMS_Q_to_Gemini_PymtDtls is Running
+[INFO ] 2021-04-15 13:59:51.145 [main] RunAllInForLoop - Process - JMS_Q_to_Gemini_PymtDtls is completed
+[INFO ] 2021-04-15 13:59:51.145 [main] RunAllInForLoop - Process - JMS_Q_to_Gemini_PymtDtls is completed
+[INFO ] 2021-04-15 13:59:51.337 [main] RunAllInForLoop - Currently MSD365_to_JMS_Q_WUB_BillDtls is Running
+[INFO ] 2021-04-15 13:59:51.337 [main] RunAllInForLoop - Currently MSD365_to_JMS_Q_WUB_BillDtls is Running
+[INFO ] 2021-04-15 14:03:04.036 [main] RunAllInForLoop - Process - MSD365_to_JMS_Q_WUB_BillDtls is completed
+[INFO ] 2021-04-15 14:03:04.036 [main] RunAllInForLoop - Process - MSD365_to_JMS_Q_WUB_BillDtls is completed
+[INFO ] 2021-04-15 14:03:04.381 [main] RunAllInForLoop - Currently JMS_Q_InvoiceCDM_to_WUB_BillDtls is Running
+[INFO ] 2021-04-15 14:03:04.381 [main] RunAllInForLoop - Currently JMS_Q_InvoiceCDM_to_WUB_BillDtls is Running
+[INFO ] 2021-04-15 14:11:04.809 [main] RunAllInForLoop - Process - JMS_Q_InvoiceCDM_to_WUB_BillDtls is completed
+[INFO ] 2021-04-15 14:11:04.809 [main] RunAllInForLoop - Process - JMS_Q_InvoiceCDM_to_WUB_BillDtls is completed
+[INFO ] 2021-04-15 14:11:05.011 [main] RunAllInForLoop - Currently WUB_to_JMS_Q_NewDomesticBillDtls is Running
+[INFO ] 2021-04-15 14:11:05.011 [main] RunAllInForLoop - Currently WUB_to_JMS_Q_NewDomesticBillDtls is Running
+[INFO ] 2021-04-15 14:12:01.017 [main] RunAllInForLoop - Process - WUB_to_JMS_Q_NewDomesticBillDtls is completed
+[INFO ] 2021-04-15 14:12:01.017 [main] RunAllInForLoop - Process - WUB_to_JMS_Q_NewDomesticBillDtls is completed
+[INFO ] 2021-04-15 14:12:01.204 [main] RunAllInForLoop - Currently Ls-JMS_Q_MSD365_NewDomesticBillDtls is Running
+[INFO ] 2021-04-15 14:12:01.204 [main] RunAllInForLoop - Currently Ls-JMS_Q_MSD365_NewDomesticBillDtls is Running
+[INFO ] 2021-04-15 14:13:23.134 [main] RunAllInForLoop - Process - Ls-JMS_Q_MSD365_NewDomesticBillDtls is completed
+[INFO ] 2021-04-15 14:13:23.134 [main] RunAllInForLoop - Process - Ls-JMS_Q_MSD365_NewDomesticBillDtls is completed
+[INFO ] 2021-04-15 14:13:23.322 [main] RunAllInForLoop - Currently MSD365_to_JMS_Q_Uplift_Provisions is Running
+[INFO ] 2021-04-15 14:13:23.322 [main] RunAllInForLoop - Currently MSD365_to_JMS_Q_Uplift_Provisions is Running
+[INFO ] 2021-04-15 14:13:30.932 [main] RunAllInForLoop - Process - MSD365_to_JMS_Q_Uplift_Provisions is completed
+[INFO ] 2021-04-15 14:13:30.932 [main] RunAllInForLoop - Process - MSD365_to_JMS_Q_Uplift_Provisions is completed
+[INFO ] 2021-04-15 14:13:31.111 [main] RunAllInForLoop - Currently JMS_Q_to_OraFin_Uplift&Provisions is Running
+[INFO ] 2021-04-15 14:13:31.111 [main] RunAllInForLoop - Currently JMS_Q_to_OraFin_Uplift&Provisions is Running
+[INFO ] 2021-04-15 14:14:26.197 [main] RunAllInForLoop - Process - JMS_Q_to_OraFin_Uplift&Provisions is completed
+[INFO ] 2021-04-15 14:14:26.197 [main] RunAllInForLoop - Process - JMS_Q_to_OraFin_Uplift&Provisions is completed
+[INFO ] 2021-04-15 14:14:26.382 [main] RunAllInForLoop - Currently MSD365_to_JMS_Q_RCC_Payment is Running
+[INFO ] 2021-04-15 14:14:26.382 [main] RunAllInForLoop - Currently MSD365_to_JMS_Q_RCC_Payment is Running
+[INFO ] 2021-04-15 14:14:34.052 [main] RunAllInForLoop - Process - MSD365_to_JMS_Q_RCC_Payment is completed
+[INFO ] 2021-04-15 14:14:34.052 [main] RunAllInForLoop - Process - MSD365_to_JMS_Q_RCC_Payment is completed
+[INFO ] 2021-04-15 14:14:34.239 [main] RunAllInForLoop - Currently Ls-JMS_Q_to_OraFin_RCC_Payment is Running
+[INFO ] 2021-04-15 14:14:34.239 [main] RunAllInForLoop - Currently Ls-JMS_Q_to_OraFin_RCC_Payment is Running
+[INFO ] 2021-04-15 14:15:30.078 [main] RunAllInForLoop - Process - Ls-JMS_Q_to_OraFin_RCC_Payment is completed
+[INFO ] 2021-04-15 14:15:30.078 [main] RunAllInForLoop - Process - Ls-JMS_Q_to_OraFin_RCC_Payment is completed
+[INFO ] 2021-04-15 14:15:30.257 [main] RunAllInForLoop - Currently MSD365_to_JMS_Q_Non_Domestic_Billing_Intermediate is Running
+[INFO ] 2021-04-15 14:15:30.257 [main] RunAllInForLoop - Currently MSD365_to_JMS_Q_Non_Domestic_Billing_Intermediate is Running
+[INFO ] 2021-04-15 14:17:38.992 [main] RunAllInForLoop - Process - MSD365_to_JMS_Q_Non_Domestic_Billing_Intermediate is completed
+[INFO ] 2021-04-15 14:17:38.992 [main] RunAllInForLoop - Process - MSD365_to_JMS_Q_Non_Domestic_Billing_Intermediate is completed
+[INFO ] 2021-04-15 14:17:39.183 [main] RunAllInForLoop - Currently MSD365_to_JMS_Q_Non_Domestic_Billing is Running
+[INFO ] 2021-04-15 14:17:39.183 [main] RunAllInForLoop - Currently MSD365_to_JMS_Q_Non_Domestic_Billing is Running
+[INFO ] 2021-04-15 14:19:57.239 [main] RunAllInForLoop - Process - MSD365_to_JMS_Q_Non_Domestic_Billing is completed
+[INFO ] 2021-04-15 14:19:57.239 [main] RunAllInForLoop - Process - MSD365_to_JMS_Q_Non_Domestic_Billing is completed
+[INFO ] 2021-04-15 14:19:57.428 [main] RunAllInForLoop - Currently OraFin_to_JMS_Q_ProjectsInfo is Running
+[INFO ] 2021-04-15 14:19:57.428 [main] RunAllInForLoop - Currently OraFin_to_JMS_Q_ProjectsInfo is Running
+[INFO ] 2021-04-15 14:21:00.964 [main] RunAllInForLoop - Process - OraFin_to_JMS_Q_ProjectsInfo is completed
+[INFO ] 2021-04-15 14:21:00.964 [main] RunAllInForLoop - Process - OraFin_to_JMS_Q_ProjectsInfo is completed
+[INFO ] 2021-04-15 14:21:01.161 [main] RunAllInForLoop - Currently JMS_Q_to_WUB_ProjectsInfo is Running
+[INFO ] 2021-04-15 14:21:01.161 [main] RunAllInForLoop - Currently JMS_Q_to_WUB_ProjectsInfo is Running
+[INFO ] 2021-04-15 14:21:52.087 [main] CommonFilters - Process count does not matched4881 != 42000
+[INFO ] 2021-04-15 14:21:52.683 [main] RunAllInForLoop - Process - JMS_Q_to_WUB_ProjectsInfo is completed
+[INFO ] 2021-04-15 14:21:52.683 [main] RunAllInForLoop - Process - JMS_Q_to_WUB_ProjectsInfo is completed
+[INFO ] 2021-04-15 14:21:52.864 [main] RunAllInForLoop - Currently JMS_Q_BillIN_XML_to_WUB_Billing is Running
+[INFO ] 2021-04-15 14:21:52.864 [main] RunAllInForLoop - Currently JMS_Q_BillIN_XML_to_WUB_Billing is Running
+[INFO ] 2021-04-15 14:22:00.465 [main] RunAllInForLoop - Process - JMS_Q_BillIN_XML_to_WUB_Billing is completed
+[INFO ] 2021-04-15 14:22:00.465 [main] RunAllInForLoop - Process - JMS_Q_BillIN_XML_to_WUB_Billing is completed
+[INFO ] 2021-04-15 14:22:00.653 [main] RunAllInForLoop - Currently HCM_to_OraFin_User is Running
+[INFO ] 2021-04-15 14:22:00.653 [main] RunAllInForLoop - Currently HCM_to_OraFin_User is Running
+[INFO ] 2021-04-15 14:22:07.278 [main] RunAllInForLoop - Process - HCM_to_OraFin_User is completed
+[INFO ] 2021-04-15 14:22:07.278 [main] RunAllInForLoop - Process - HCM_to_OraFin_User is completed
+[INFO ] 2021-04-15 14:22:07.474 [main] RunAllInForLoop - Currently HCM_to_OraFin_EmpMaster_Payroll is Running
+[INFO ] 2021-04-15 14:22:07.474 [main] RunAllInForLoop - Currently HCM_to_OraFin_EmpMaster_Payroll is Running
+[INFO ] 2021-04-15 14:22:16.281 [main] RunAllInForLoop - Process - HCM_to_OraFin_EmpMaster_Payroll is completed
+[INFO ] 2021-04-15 14:22:16.281 [main] RunAllInForLoop - Process - HCM_to_OraFin_EmpMaster_Payroll is completed
+[INFO ] 2021-04-15 14:22:16.450 [main] RunAllInForLoop - Currently Tungsten_to_JMS_Q_eInvoiceDetails is Running
+[INFO ] 2021-04-15 14:22:16.450 [main] RunAllInForLoop - Currently Tungsten_to_JMS_Q_eInvoiceDetails is Running
+[INFO ] 2021-04-15 14:23:37.750 [main] RunAllInForLoop - Process - Tungsten_to_JMS_Q_eInvoiceDetails is completed
+[INFO ] 2021-04-15 14:23:37.750 [main] RunAllInForLoop - Process - Tungsten_to_JMS_Q_eInvoiceDetails is completed
+[INFO ] 2021-04-15 14:23:38.038 [main] RunAllInForLoop - Currently JMS_Q_eInvoice_to_OraFin is Running
+[INFO ] 2021-04-15 14:23:38.038 [main] RunAllInForLoop - Currently JMS_Q_eInvoice_to_OraFin is Running
+[INFO ] 2021-04-15 14:25:17.927 [main] RunAllInForLoop - Process - JMS_Q_eInvoice_to_OraFin is completed
+[INFO ] 2021-04-15 14:25:17.927 [main] RunAllInForLoop - Process - JMS_Q_eInvoice_to_OraFin is completed
+[INFO ] 2021-04-15 14:25:18.122 [main] RunAllInForLoop - Currently Unifier_to_JMS_VoucherNA_Capex is Running
+[INFO ] 2021-04-15 14:25:18.122 [main] RunAllInForLoop - Currently Unifier_to_JMS_VoucherNA_Capex is Running
+[INFO ] 2021-04-15 14:26:13.859 [main] RunAllInForLoop - Process - Unifier_to_JMS_VoucherNA_Capex is completed
+[INFO ] 2021-04-15 14:26:13.859 [main] RunAllInForLoop - Process - Unifier_to_JMS_VoucherNA_Capex is completed
+[INFO ] 2021-04-15 14:26:14.059 [main] RunAllInForLoop - Currently JMS_to_OraFin_VoucherNA_Capex is Running
+[INFO ] 2021-04-15 14:26:14.059 [main] RunAllInForLoop - Currently JMS_to_OraFin_VoucherNA_Capex is Running
+[INFO ] 2021-04-15 14:42:53.313 [main] CommonFilters - Screenshot : Screen captured
+[INFO ] 2021-04-15 14:44:21.844 [main] TestUtil - Screenshot attached: Process selected with date successfully

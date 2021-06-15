@@ -1,0 +1,13 @@
+[INFO ] 2021-04-26 14:38:51.445 [main] P3M_ProcessRun - Currently Orafin_to_AQueue_ActualCosts is Running
+[INFO ] 2021-04-26 14:39:44.110 [main] P3M_ProcessRun - Process - Orafin_to_AQueue_ActualCosts is completed
+[INFO ] 2021-04-26 14:39:44.408 [main] P3M_ProcessRun - Currently Ls-AQueue_to_Unifier_ActualCosts is Running
+[INFO ] 2021-04-26 14:40:41.506 [main] P3M_ProcessRun - Process - Ls-AQueue_to_Unifier_ActualCosts is completed
+[INFO ] 2021-04-26 14:40:41.751 [main] P3M_ProcessRun - Currently Ls-WSS_Optimum_to_Unifier_CaseDetails is Running
+[INFO ] 2021-04-26 14:40:50.125 [main] P3M_ProcessRun - Process - Ls-WSS_Optimum_to_Unifier_CaseDetails is completed
+[INFO ] 2021-04-26 14:40:50.386 [main] P3M_ProcessRun - Currently Unifier_to_JMS_SSDBEngagements is Running
+[INFO ] 2021-04-26 14:41:42.751 [main] P3M_ProcessRun - Process - Unifier_to_JMS_SSDBEngagements is completed
+[INFO ] 2021-04-26 14:41:43.135 [main] P3M_ProcessRun - Currently Ls-JMS_to_SSDB_Engagements is Running
+[INFO ] 2021-04-26 16:04:49.771 [main] P3M_ProcessRun - Currently Orafin_to_AQueue_ActualCosts is Running
+[INFO ] 2021-04-26 16:05:42.523 [main] P3M_ProcessRun - Process - Orafin_to_AQueue_ActualCosts is completed
+[INFO ] 2021-04-26 16:05:42.821 [main] P3M_ProcessRun - Currently Ls-AQueue_to_Unifier_ActualCosts is Running
+[INFO ] 2021-04-26 16:06:41.306 [main] P3M_ProcessRun - Process - Ls-AQueue_to_Unifier_ActualCosts is completed

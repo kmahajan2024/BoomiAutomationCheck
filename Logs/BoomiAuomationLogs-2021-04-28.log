@@ -1,0 +1,58 @@
+[INFO ] 2021-04-28 07:29:36.919 [main] P3M_ProcessRun - Currently Orafin_to_AQueue_ActualCosts is Running
+[INFO ] 2021-04-28 07:30:32.842 [main] P3M_ProcessRun - Process - Orafin_to_AQueue_ActualCosts is completed
+[INFO ] 2021-04-28 07:30:33.600 [main] P3M_ProcessRun - Currently Ls-AQueue_to_Unifier_ActualCosts is Running
+[INFO ] 2021-04-28 07:31:33.407 [main] P3M_ProcessRun - Process - Ls-AQueue_to_Unifier_ActualCosts is completed
+[INFO ] 2021-04-28 07:31:33.962 [main] P3M_ProcessRun - Currently Ls-WSS_Optimum_to_Unifier_CaseDetails is Running
+[INFO ] 2021-04-28 07:31:43.617 [main] P3M_ProcessRun - Process - Ls-WSS_Optimum_to_Unifier_CaseDetails is completed
+[INFO ] 2021-04-28 07:31:43.949 [main] P3M_ProcessRun - Currently Unifier_to_JMS_SSDBEngagements is Running
+[INFO ] 2021-04-28 07:32:37.246 [main] P3M_ProcessRun - Process - Unifier_to_JMS_SSDBEngagements is completed
+[INFO ] 2021-04-28 07:32:37.842 [main] P3M_ProcessRun - Currently Ls-JMS_to_SSDB_Engagements is Running
+[INFO ] 2021-04-28 07:48:41.623 [main] P3M_ProcessRun - Currently Orafin_to_AQueue_ActualCosts is Running
+[INFO ] 2021-04-28 07:49:38.193 [main] P3M_ProcessRun - Process - Orafin_to_AQueue_ActualCosts is completed
+[INFO ] 2021-04-28 07:49:38.747 [main] P3M_ProcessRun - Currently Ls-AQueue_to_Unifier_ActualCosts is Running
+[INFO ] 2021-04-28 07:50:36.852 [main] P3M_ProcessRun - Process - Ls-AQueue_to_Unifier_ActualCosts is completed
+[INFO ] 2021-04-28 07:50:37.241 [main] P3M_ProcessRun - Currently Ls-WSS_Optimum_to_Unifier_CaseDetails is Running
+[INFO ] 2021-04-28 07:50:46.349 [main] P3M_ProcessRun - Process - Ls-WSS_Optimum_to_Unifier_CaseDetails is completed
+[INFO ] 2021-04-28 07:50:46.646 [main] P3M_ProcessRun - Currently Unifier_to_JMS_SSDBEngagements is Running
+[INFO ] 2021-04-28 07:51:40.179 [main] P3M_ProcessRun - Process - Unifier_to_JMS_SSDBEngagements is completed
+[INFO ] 2021-04-28 07:51:40.548 [main] P3M_ProcessRun - Currently Ls-JMS_to_SSDB_Engagements is Running
+[INFO ] 2021-04-28 15:44:48.431 [main] P3M_ProcessRun - Currently Ls-AQueue_to_Unifier_ActualCosts is Running
+[INFO ] 2021-04-28 15:46:05.263 [main] P3M_ProcessRun - Process - Ls-AQueue_to_Unifier_ActualCosts is completed
+[INFO ] 2021-04-28 15:46:05.342 [main] P3M_ProcessRun - Currently Unifier_to_JMS_SSDBProjects is Running
+[INFO ] 2021-04-28 15:47:30.530 [main] P3M_ProcessRun - Process - Unifier_to_JMS_SSDBProjects is completed
+[INFO ] 2021-04-28 15:47:30.624 [main] P3M_ProcessRun - Currently Unifier_to_AQueue_MonthlyUpdate_Schedule is Running
+[INFO ] 2021-04-28 15:48:33.399 [main] P3M_ProcessRun - Process - Unifier_to_AQueue_MonthlyUpdate_Schedule is completed
+[INFO ] 2021-04-28 15:48:33.478 [main] P3M_ProcessRun - Currently Unifier_to_PMODB_UDR_019_Wflow_Proj is Running
+[INFO ] 2021-04-28 15:51:26.421 [main] P3M_ProcessRun - Currently Ls-AQueue_to_Unifier_ActualCosts is Running
+[INFO ] 2021-04-28 15:52:44.169 [main] P3M_ProcessRun - Process - Ls-AQueue_to_Unifier_ActualCosts is completed
+[INFO ] 2021-04-28 15:52:44.265 [main] P3M_ProcessRun - Currently Unifier_to_JMS_SSDBProjects is Running
+[INFO ] 2021-04-28 15:54:09.594 [main] P3M_ProcessRun - Process - Unifier_to_JMS_SSDBProjects is completed
+[INFO ] 2021-04-28 15:54:09.695 [main] P3M_ProcessRun - Currently Unifier_to_AQueue_MonthlyUpdate_Schedule is Running
+[INFO ] 2021-04-28 15:55:11.643 [main] P3M_ProcessRun - Process - Unifier_to_AQueue_MonthlyUpdate_Schedule is completed
+[INFO ] 2021-04-28 15:55:11.724 [main] P3M_ProcessRun - Currently Unifier_to_PMODB_UDR_019_Wflow_Proj is Running
+[INFO ] 2021-04-28 15:59:59.114 [main] P3M_ProcessRun - Currently Ls-AQueue_to_Unifier_ActualCosts is Running
+[INFO ] 2021-04-28 16:01:15.674 [main] P3M_ProcessRun - Process - Ls-AQueue_to_Unifier_ActualCosts is completed
+[INFO ] 2021-04-28 16:01:15.781 [main] P3M_ProcessRun - Currently Unifier_to_JMS_SSDBProjects is Running
+[INFO ] 2021-04-28 16:03:01.052 [main] P3M_ProcessRun - Process - Unifier_to_JMS_SSDBProjects is completed
+[INFO ] 2021-04-28 16:03:01.154 [main] P3M_ProcessRun - Currently Unifier_to_AQueue_MonthlyUpdate_Schedule is Running
+[INFO ] 2021-04-28 16:04:03.151 [main] P3M_ProcessRun - Process - Unifier_to_AQueue_MonthlyUpdate_Schedule is completed
+[INFO ] 2021-04-28 16:04:03.224 [main] P3M_ProcessRun - Currently Unifier_to_PMODB_UDR_019_Wflow_Proj is Running
+[INFO ] 2021-04-28 16:08:27.771 [main] P3M_ProcessRun - Process - Unifier_to_PMODB_UDR_019_Wflow_Proj is completed
+[INFO ] 2021-04-28 16:08:27.842 [main] P3M_ProcessRun - Currently Ls-AQueue_to_Unifier_CashFlowDistUpdate_Intra is Running
+[INFO ] 2021-04-28 16:12:57.774 [main] P3M_ProcessRun - Process - Ls-AQueue_to_Unifier_CashFlowDistUpdate_Intra is completed
+[INFO ] 2021-04-28 16:12:57.831 [main] P3M_ProcessRun - Currently Intra_Unifier_Activity_Sheet_P6 is Running
+[INFO ] 2021-04-28 16:14:13.925 [main] P3M_ProcessRun - Process - Intra_Unifier_Activity_Sheet_P6 is completed
+[INFO ] 2021-04-28 16:14:13.997 [main] P3M_ProcessRun - Currently  Intra_Unifier_FinalClosure is Running
+[INFO ] 2021-04-28 16:30:18.784 [main] P3M_ProcessRun - Currently Ls-AQueue_to_Unifier_ActualCosts is Running
+[INFO ] 2021-04-28 16:31:39.310 [main] P3M_ProcessRun - Process - Ls-AQueue_to_Unifier_ActualCosts is completed
+[INFO ] 2021-04-28 16:31:39.423 [main] P3M_ProcessRun - Currently Unifier_to_JMS_SSDBProjects is Running
+[INFO ] 2021-04-28 16:33:24.979 [main] P3M_ProcessRun - Process - Unifier_to_JMS_SSDBProjects is completed
+[INFO ] 2021-04-28 16:33:25.135 [main] P3M_ProcessRun - Currently Unifier_to_AQueue_MonthlyUpdate_Schedule is Running
+[INFO ] 2021-04-28 16:34:27.747 [main] P3M_ProcessRun - Process - Unifier_to_AQueue_MonthlyUpdate_Schedule is completed
+[INFO ] 2021-04-28 16:34:27.812 [main] P3M_ProcessRun - Currently Unifier_to_PMODB_UDR_019_Wflow_Proj is Running
+[INFO ] 2021-04-28 16:39:45.444 [main] P3M_ProcessRun - Process - Unifier_to_PMODB_UDR_019_Wflow_Proj is completed
+[INFO ] 2021-04-28 16:39:45.601 [main] P3M_ProcessRun - Currently Ls-AQueue_to_Unifier_CashFlowDistUpdate_Intra is Running
+[INFO ] 2021-04-28 16:44:15.826 [main] P3M_ProcessRun - Process - Ls-AQueue_to_Unifier_CashFlowDistUpdate_Intra is completed
+[INFO ] 2021-04-28 16:44:15.879 [main] P3M_ProcessRun - Currently Intra_Unifier_Activity_Sheet_P6 is Running
+[INFO ] 2021-04-28 16:45:32.487 [main] P3M_ProcessRun - Process - Intra_Unifier_Activity_Sheet_P6 is completed
+[INFO ] 2021-04-28 16:45:32.555 [main] P3M_ProcessRun - Currently Intra_Unifier_FinalClosure is Running

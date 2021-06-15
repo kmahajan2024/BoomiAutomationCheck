@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [BoomiAutomation-Suite]">
+  <test thread-count="5" name="BoomiAutomation(failed)">
+    <classes>
+      <class name="com.boomi.testcases.TC_RunMonToFri">
+        <methods>
+          <include name="test_WUB_to_JMS_Q_NewInvcBill"/>
+          <include name="initExtentReport"/>
+          <include name="test_Gemini_to_WUB_NewCustCreation"/>
+          <include name="test_Gemini_to_WUB_STBillDtls"/>
+          <include name="test_JMS_Q_to_Gemini_NewInvcBill"/>
+          <include name="tearDown"/>
+          <include name="test_JMS_Q_to_Gemini_NewCustRef"/>
+          <include name="sheetRename"/>
+          <include name="test_WUB_to_Critiqom_BillPrint_Passthru"/>
+          <include name="test_WUB_to_Critiqom_DunningLettersGen_Passthru"/>
+          <include name="test_JMS_Q_to_Gemini_PymtDtls"/>
+          <include name="test_WUB_to_JMS_Q_NewCustRef"/>
+          <include name="test_WUB_to_JMS_Q_PymtDtls"/>
+          <include name="initialization"/>
+          <include name="testName"/>
+        </methods>
+      </class> <!-- com.boomi.testcases.TC_RunMonToFri -->
+      <class name="com.boomi.testcases.TC_RunEveryday">
+        <methods>
+          <include name="test_Update_CAPEX_WO_Activity"/>
+          <include name="test_JMS_Q_eInvoice_to_OraFin"/>
+          <include name="test_Unifier_to_JMS_ProjMiscCost"/>
+          <include name="test_LIMS_To_CDR_Customer"/>
+          <include name="initExtentReport"/>
+          <include name="test_LIMS_to_CDR_Sampling_Point"/>
+          <include name="test_OraFin_to_JMS_Q_ProjectsInfo"/>
+          <include name="test_JMS_Q_to_OraFin_Uplift_Provisions"/>
+          <include name="test_Unifier_to_JMS_VoucherNA_Capex"/>
+          <include name="test_Tungsten_to_JMS_Q_eInvoiceDetails"/>
+          <include name="test_OraFin_to_Tungsten_PurchaseOrder_Passthru"/>
+          <include name="tearDown"/>
+          <include name="test_LIMS_to_CDR_Q_UNITS"/>
+          <include name="test_Ls_JMS_Q_to_OraFin_RCC_Payment"/>
+          <include name="sheetRename"/>
+          <include name="test_Unifier_to_JMS_VoucherNA_Opex"/>
+          <include name="test_Unifier_to_OraFin_VoucherNA_Opex_submitESSJobRequest"/>
+          <include name="test_OraFin_to_CISP_CapitalCosts"/>
+          <include name="initialization"/>
+          <include name="testName"/>
+          <include name="test_WUB_to_OraFin_InvcCreditNotesProject"/>
+          <include name="test_LIMS_to_CDR_PRODUCT_SPEC"/>
+          <include name="test_Main_LIMS_to_CDR_PSP_Q_T_RESULT"/>
+          <include name="test_WUB_to_OraFin_GLPosting_submitESSJobRequest"/>
+          <include name="test_HCM_to_OraFin_EmpMaster_Payroll"/>
+          <include name="test_OraFin_to_Tungsten_InvoicePymt_Passthru"/>
+          <include name="test_LIMS_to_CDR_SAMPLE"/>
+          <include name="test_Unifier_to_OraFin_VoucherNA_Capex_submitESSJobRequest"/>
+          <include name="test_WUB_to_JMS_Q_NewDomesticBillDtls"/>
+          <include name="test_OraFin_to_JMS_T_APRefund"/>
+          <include name="test_WUB_to_OraFin_ReceiptsCM"/>
+          <include name="test_LIMS_to_CDR_WaterSource"/>
+          <include name="test_WUB_to_OraFin_GLPosting"/>
+        </methods>
+      </class> <!-- com.boomi.testcases.TC_RunEveryday -->
+      <class name="com.boomi.testcases.TC_RunEverydayFrequently">
+        <methods>
+          <include name="initExtentReport"/>
+          <include name="test_OraFin_to_ePay_BACSProcessing"/>
+          <include name="test_MSDCRM_to_Disk_NonPrimary"/>
+          <include name="test_Ellipse_to_Orafin_POReceipts_test"/>
+          <include name="tearDown"/>
+          <include name="test_JMS_Q_WOCost_XML_to_OraFin"/>
+          <include name="test_WUB_to_OraFin_PymtReqCustRefund"/>
+          <include name="sheetRename"/>
+          <include name="test_JMS_Q_Activity_CAPEX_XML_to_Orafin"/>
+          <include name="test_JMS_Q_Activity_OPEX_XML_to_Orafin"/>
+          <include name="test_JMS_Q_InvoiceCDM_to_WUB_BillDtls"/>
+          <include name="test_JMS_Q_BillIN_XML_to_WUB_Billing"/>
+          <include name="test_JMS_Q_to_WUB_ProjectsInfo"/>
+          <include name="initialization"/>
+          <include name="testName"/>
+          <include name="test_MSD365_to_JMS_Q_Non_Domestic_Billing"/>
+          <include name="test_Ellipse_To_Orafin_POCreate_test"/>
+        </methods>
+      </class> <!-- com.boomi.testcases.TC_RunEverydayFrequently -->
+      <class name="com.boomi.testcases.TC_RunFreqIsNA">
+        <methods>
+          <include name="test_MSD365_to_JMS_Q_Non_Domestic_Billing_Intermediate"/>
+          <include name="test_Ls_JMS_T_CapProject_to_OraFin_Manager"/>
+          <include name="initExtentReport"/>
+          <include name="test_Ls_JMS_T_APrefund_to_WUB"/>
+          <include name="test_Ls_JMS_Q_MSD365_NewDomesticBillDtls"/>
+          <include name="tearDown"/>
+          <include name="sheetRename"/>
+          <include name="test_JMS_to_OraFin_VoucherNA_Capex"/>
+          <include name="test_OraFin_to_ePay_BACSProcessing_subProcess"/>
+          <include name="test_MSD365_to_JMS_Q_RCC_Payment"/>
+          <include name="initialization"/>
+          <include name="testName"/>
+          <include name="test_MSD365_to_JMS_Q_WUB_BillDtls"/>
+          <include name="test_MSD365_to_JMS_Q_Uplift_Provisions"/>
+        </methods>
+      </class> <!-- com.boomi.testcases.TC_RunFreqIsNA -->
+    </classes>
+  </test> <!-- BoomiAutomation(failed) -->
+</suite> <!-- Failed suite [BoomiAutomation-Suite] -->

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="180544" started-at="2021-06-11T10:09:05 BST" finished-at="2021-06-11T10:12:06 BST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="180544" started-at="2021-06-11T10:09:05 BST" finished-at="2021-06-11T10:12:06 BST">
+      <class name="com.boomi.testcases.RunAllInForLoop">
+        <test-method status="PASS" signature="initExtentReport()[pri:0, instance:com.boomi.testcases.RunAllInForLoop@4dbb42b7]" name="initExtentReport" is-config="true" duration-ms="118" started-at="2021-06-11T10:09:03 BST" finished-at="2021-06-11T10:09:03 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initExtentReport -->
+        <test-method status="PASS" signature="sheetRename()[pri:0, instance:com.boomi.testcases.RunAllInForLoop@4dbb42b7]" name="sheetRename" is-config="true" duration-ms="1859" started-at="2021-06-11T10:09:03 BST" depends-on-methods="com.boomi.base.ExtentsReportConfig.initExtentReport" finished-at="2021-06-11T10:09:05 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sheetRename -->
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.boomi.testcases.RunAllInForLoop@4dbb42b7]" name="initialization" is-config="true" duration-ms="30582" started-at="2021-06-11T10:09:05 BST" finished-at="2021-06-11T10:09:36 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="testName(java.lang.reflect.Method)[pri:0, instance:com.boomi.testcases.RunAllInForLoop@4dbb42b7]" name="testName" is-config="true" duration-ms="5" started-at="2021-06-11T10:09:36 BST" finished-at="2021-06-11T10:09:36 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.boomi.testcases.RunAllInForLoop.test_Orafin_to_AQueue_ActualCosts()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testName -->
+        <test-method status="PASS" signature="test_Orafin_to_AQueue_ActualCosts()[pri:0, instance:com.boomi.testcases.RunAllInForLoop@4dbb42b7]" name="test_Orafin_to_AQueue_ActualCosts" duration-ms="148318" started-at="2021-06-11T10:09:36 BST" finished-at="2021-06-11T10:12:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Orafin_to_AQueue_ActualCosts -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.boomi.testcases.RunAllInForLoop@4dbb42b7]" name="tearDown" is-config="true" duration-ms="1586" started-at="2021-06-11T10:12:04 BST" finished-at="2021-06-11T10:12:05 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.boomi.testcases.RunAllInForLoop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
